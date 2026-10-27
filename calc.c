@@ -2,8 +2,7 @@
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // AI assistance: ChatGPT 
 // I used AI to get the outline for this assignment, which helped me know where to start and how to structure my code. Then, for simple functions or small pieces of code, I did them myself. When it got too complicated, I used AI to give me advice or correct me. I also had the AI check the code completely to make sure I hadn't made any mistakes, but the code was fine.
-// Conversation link: https://chatgpt.com/share/6ae12dff-65cc-83ed-873e-50d199d14266
-
+// Conversation link: https://chatgpt.com/share/6ae12fe0-0cf0-83eb-b9f9-ee3896385cd1
 
 #include <stdio.h>
 #include <string.h>
